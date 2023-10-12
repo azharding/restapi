@@ -3,8 +3,8 @@ const fs = require('fs')
 global.creator = 'VIMISOFT'// yourname
 global.MONGO_DB_URI = "mongodb+srv://azhardev21:Galardo1212@cluster0.a5uvkmj.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.your_email = "vimisoft21@gmail.com" //email
+global.email_password = "Galardo12" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
